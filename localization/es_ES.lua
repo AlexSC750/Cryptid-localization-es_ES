@@ -726,7 +726,6 @@ return {
 					"{C:cry_code}Destierra{} cualquier objeto",
 					"{C:cry_code}seleccionado{} de la tienda, ya no aparecerá",
 					"normalmente en esta partida",
-					"{C:inactive}Multiuso: ({C:cry_code}#1#{C:inactive} restante#<s>1#)",
 				},
 			},
 			c_cry_alttab = {
@@ -1009,7 +1008,7 @@ return {
 				text = {
 					"{X:dark_edition,C:white}^#1#{} multi",
 					"Cuenta como su {C:attention}propio{} rango y palo",
-					"Chance de {C:green}#4# en #5#{} de que",
+					"{C:green}#4# en #5#{} probabilidades de que",
 					"{C:red,E:2}se destruya{} la carta al tenerla en la mano al",
 					"{C:attention}final de la ronda{} o al {C:attention}jugar una mano{}",
 				},
