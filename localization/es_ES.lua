@@ -28,9 +28,9 @@ return {
 					"tienen valores {C:attention}cuadruplicados{}",
 				},
 				unlock = {
-                    "Descubre al menos",
-                    "{C:attention}200{} objetos de",
-                    "tu colección",
+					"Descubre al menos",
+					"{C:attention}200{} objetos de",
+					"tu colección",
 				},
 			},
 			b_cry_beta = {
@@ -286,7 +286,7 @@ return {
 				text = {
 					"+0.1X requisitos de ciega por cada",
 					"12 segundos pasados en esta apuesta",
-					"(multiplicado por velocidad de juego)"
+					"(multiplicado por velocidad de juego)",
 				},
 			},
 			bl_cry_hammer = {
@@ -315,7 +315,7 @@ return {
 				text = {
 					"1.25X requisitos de ciega por cada",
 					"6 segundos pasados en esta ronda",
-					"(multiplicado por velocidad de juego)"
+					"(multiplicado por velocidad de juego)",
 				},
 			},
 			bl_cry_obsidian_orb = {
@@ -616,7 +616,7 @@ return {
 				name = "ENGANCHAR://",
 				text = {
 					"Aplica {C:cry_code}Enganchado{} a",
-					"2 comodines seleccionados"
+					"2 comodines seleccionados",
 				},
 			},
 			c_cry_oboe = {
@@ -1395,7 +1395,7 @@ return {
 					"Gana una partida con",
 					"tu última mano siendo",
 					"un {E:1,C:attention}Nada", --queda None por traducir, revisar el discord si alguien lo solucionó
-				},								--listo, "nada" que temer :> -AlexSC (porfavor rianse)
+				}, --listo, "nada" que temer :> -AlexSC (porfavor rianse)
 			},
 			j_cry_clicked_cookie = {
 				name = "Galleta clickeada",
